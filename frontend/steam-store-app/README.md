@@ -222,3 +222,7 @@ Made with ❤️ and ☕
 </div>
 
 
+
+
+
+# npm install axios redux react-redux @reduxjs/toolkit react-router-dom
